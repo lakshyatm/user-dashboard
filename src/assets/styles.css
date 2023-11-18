@@ -1,0 +1,8 @@
+/* src/assets/styles.css */
+
+/* Apply global styles here if needed */
+
+/* Import Tailwind CSS styles */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
